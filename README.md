@@ -1,4 +1,4 @@
-# accessibility-for-old-people-in-bangladesh-healthcare-a-proposal
+# Accessibility-for-old-people-in-bangladesh-healthcare-a-proposal
 Toward Accessible and Trust-Calibrated LLM-Mediated Medical Information for Bangladeshi Older Adults
 
 Large language models (LLMs) are becoming increasingly common for finding and understanding medical information. However, older
